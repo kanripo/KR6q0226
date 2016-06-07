@@ -6,7 +6,7 @@
 #+PROPERTY: SOURCE Jiaxing Canon Vol. 36, No. B348
 #+PROPERTY: VOL 36
 #+PROPERTY: BASEEDITION J
-#+PROPERTY: WITNESS master
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6q0226_J_007-0370c> 
 #+PROPERTY: JUAN 7
 靈峰蕅益大師宗論卷第七之一¶
@@ -1567,7 +1567,7 @@
 顧此咒自四明尊者設立行法後，從元至明，未嘗絕¶
 倡。一傳於天台，再傳入武林。壇儀供具，於斯為盛，而
 <pb:KR6q0226_J_007-0385c>¶
-法式理觀，不免有字經三寫，烏焉成馬之虞。余向遊¶
+法式理觀，不免有字經三寫，烏鳶成馬之虞。余向遊¶
 吳越，每欲稍正其訛，乃久誦水潦鶴者，競嫌昏耄，付¶
 諸永歎而已。祖堂湛持開士，思如法搆壇嚴像，余喜¶
 此方緇素，未染訛習，猶可與正其始也。爰贅片言，使¶

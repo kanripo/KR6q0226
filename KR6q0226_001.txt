@@ -6,7 +6,7 @@
 #+PROPERTY: SOURCE Jiaxing Canon Vol. 36, No. B348
 #+PROPERTY: VOL 36
 #+PROPERTY: BASEEDITION J
-#+PROPERTY: WITNESS master
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6q0226_J_001-0253a> 
 #+PROPERTY: JUAN 1
 
@@ -37,7 +37,7 @@
 序，及竹窗隨筆，乃不謗佛，取所著闢佛論焚之。二十¶
 歲，詮論語，至天下歸仁，不能下筆。廢寢忘餐三晝夜，¶
 大悟孔顏心法。冬喪父，聞地藏本願，發出世心。二十¶
-二歲，專志念佛。盡焚窗稿二千餘篇。二十三歲，聽大¶
+二歲，專志念佛。盡焚窗槀二千餘篇。二十三歲，聽大¶
 佛頂經，謂世界在空，空生大覺，遂疑何故有此大覺，¶
 致為空界張本，悶絕無措。但昏散最重，功夫不能成¶
 片，因決意出家，體究大事。二十四歲，夢禮憨山大師，¶

@@ -6,7 +6,7 @@
 #+PROPERTY: SOURCE Jiaxing Canon Vol. 36, No. B348
 #+PROPERTY: VOL 36
 #+PROPERTY: BASEEDITION J
-#+PROPERTY: WITNESS master
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6q0226_J_006-0349c> 
 #+PROPERTY: JUAN 6
 靈峰蕅益大師宗論卷第六之一¶
@@ -238,7 +238,7 @@
 得益，非我等三人，不能大益雪公，而非雪公，又不能¶
 令我三人皆得大益。生我者父母，成我者朋友，詎不¶
 信然。今以往樂多賢友，更何容生厭足心。是以錄唱¶
-和願文諸稿，用作尚友前茅。凡欲為千古極則人者，¶
+和願文諸槀，用作尚友前茅。凡欲為千古極則人者，¶
 當不以辭之拙，而忽其心之苦也。¶
 
 ** 廣孝序

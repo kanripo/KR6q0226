@@ -6,7 +6,7 @@
 #+PROPERTY: SOURCE Jiaxing Canon Vol. 36, No. B348
 #+PROPERTY: VOL 36
 #+PROPERTY: BASEEDITION J
-#+PROPERTY: WITNESS master
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6q0226_J_005-0333c> 
 #+PROPERTY: JUAN 5
 靈峰蕅益大師宗論卷第五之一¶
@@ -236,7 +236,7 @@
 得，以圖共報佛恩，無以寶劍切泥，隋珠彈雀，是鄙衷¶
 所惓惓耳。(其一)
 
-一芥翳天，一塵覆地，字經三寫，烏焉¶
+一芥翳天，一塵覆地，字經三寫，烏鳶¶
 成馬。佛法之蝕，由來漸矣，非外道天魔能破。壞周室¶
 者，齊桓晉文也。治世嚴王霸之辨，操心分義利之關。¶
 視聽言動之復禮不真，克伐怨欲之不行何得。隱居¶
